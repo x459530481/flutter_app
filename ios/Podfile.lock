@@ -1,0 +1,43 @@
+PODS:
+  - Flutter (1.0.0)
+  - RxCocoa (5.0.0):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.0.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.0)
+  - Toast-Swift (5.0.0)
+  - zxing (0.0.1):
+    - Flutter
+    - RxCocoa
+    - RxSwift
+    - Toast-Swift
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - zxing (from `.symlinks/plugins/zxing/ios`)
+
+SPEC REPOS:
+  trunk:
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - Toast-Swift
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  zxing:
+    :path: ".symlinks/plugins/zxing/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  RxCocoa: fcf32050ac00d801f34a7f71d5e8e7f23026dcd8
+  RxRelay: 89d54507f4fd4d969e6ec1d4bd7f3673640b4640
+  RxSwift: 8b0671caa829a763bbce7271095859121cbd895f
+  Toast-Swift: 36f4720243c8582c2be243a60a51e193c761f541
+  zxing: 5d2cdde6cb421151a87209bffdf1ca638a4b0e6c
+
+PODFILE CHECKSUM: 10ae9c18d12c9ffc2275c9a159a3b1e281990db0
+
+COCOAPODS: 1.8.1
